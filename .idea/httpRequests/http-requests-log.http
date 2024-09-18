@@ -1,0 +1,256 @@
+DELETE http://127.0.0.1:5000/mensaje?id=13
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T154604.200.json
+
+###
+
+POST http://127.0.0.1:5000/mensaje
+Content-Type: application/json
+Content-Length: 19
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "mensaje": ""
+}
+
+<> 2024-09-18T154543.201.json
+
+###
+
+POST http://127.0.0.1:5000/mensaje
+Content-Type: application/json
+Content-Length: 19
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "mensaje": ""
+}
+
+<> 2024-09-18T154542-1.201.json
+
+###
+
+POST http://127.0.0.1:5000/mensaje
+Content-Type: application/json
+Content-Length: 19
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "mensaje": ""
+}
+
+<> 2024-09-18T154542.201.json
+
+###
+
+PUT http://127.0.0.1:5000/mensaje
+Content-Type: application/json
+Content-Length: 62
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 3,
+  "mensaje": "Prueba método put desde Pycharm"
+}
+
+<> 2024-09-18T154435.200.json
+
+###
+
+GET http://127.0.0.1:5000/mensaje
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T154341.200.json
+
+###
+
+POST http://127.0.0.1:5000/mensaje
+Content-Type: application/json
+Content-Length: 44
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "mensaje": "Nuevo mensaje desde Flask"
+}
+
+<> 2024-09-18T154215.201.json
+
+###
+
+GET http://127.0.0.1:5000/mensaje
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-09-18T154148.200.json
+
+###
+
+DELETE http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T153311.200.json
+
+###
+
+GET http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T153042.200.json
+
+###
+
+PUT http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T152206.200.json
+
+###
+
+GET http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T152150.200.json
+
+###
+
+PUT http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T103146.200.json
+
+###
+
+GET http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T103137.200.json
+
+###
+
+POST http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102752.200.json
+
+###
+
+PUT http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102646.200.json
+
+###
+
+DELETE http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102539.200.json
+
+###
+
+PUT http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102453.404.html
+
+###
+
+PUT http://127.0.0.1:5000/mensaje
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102412.200.json
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T102110.200.html
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T101410.200.html
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T101256.200.html
+
+###
+
+GET http://127.0.0.1:5000/saludo
+Accept: application/json
+User-Agent: IntelliJ HTTP Client/PyCharm 2024.2.0.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+content-length: 0
+
+<> 2024-09-18T101244.200.html
+
+###
+
